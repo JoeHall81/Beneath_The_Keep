@@ -1,0 +1,8 @@
+.footerStyle {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.footerStyle p:first-of-type {
+    margin-top: 16px;
+}
