@@ -1,6 +1,7 @@
 .footerStyle {
     background-color: black;
     color: whitesmoke;
+    text-align: center;
 }
 
 .footerStyle p:first-of-type {
