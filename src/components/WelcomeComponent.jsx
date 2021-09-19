@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 
 class WelcomeComponent extends Component {
     render() {
@@ -15,6 +16,9 @@ class WelcomeComponent extends Component {
                         <p>
                             You've been asked to investigate Garan's disapperance and/or solve his potitental murder.  
                         </p>
+                        <Link to="/Player">
+                            <button type="button">Choose Adventurer</button>
+                        </Link>
                     </div>
                 </div>
             </div>

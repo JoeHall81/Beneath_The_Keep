@@ -1,15 +1,13 @@
 import './App.css';
 import Header from './components/HeaderComponent';
-import Game from './components/GameComponent'
 import Footer from './components/FooterComponent';
-import WelcomeComponent from './components/WelcomeComponent';
+import RouteComponent from './components/RouteComponent';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <WelcomeComponent />
-      {/* <Game /> */}
+      <RouteComponent />
       <Footer />
     </div>
   );

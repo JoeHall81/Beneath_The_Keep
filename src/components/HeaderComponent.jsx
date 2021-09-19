@@ -9,7 +9,7 @@ class Header extends Component {
                 <Navbar.Text className="col-auto">
                     Website by: Joe Hall
                 </Navbar.Text>
-                <Navbar.Brand className="logo col-auto ml-auto mr-auto" href="#home">
+                <Navbar.Brand className="logo col-auto ml-auto mr-auto" href="/Welcome">
                     Beneath The Keep
                 </Navbar.Brand>
                 <Navbar.Text className="col-auto">
