@@ -1,0 +1,212 @@
+FAST CHARACTER
+fastcharacter.com
+
+
+Name:  Erguia the Feral
+Race: Half-Orc
+Class & Level: Rogue 10 (Assassin)
+Background: Outlander
+Alignment: Chaotic Neutral
+Experience: 67,840 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +4 proficiency bonus; ** includes expertise, if any)
+
+Strength 12
++1 ... Strength Ability Checks
++1 ... Strength Saving Throws
++5 ... Athletics Skill  *
+180 lbs. ... Maximum Carrying Capacity
+360 lbs. ... Max. Push or Drag (Speed -5 ft.)
+360 lbs. ... Maximum Lift
+
+Dexterity 19
++4 ... Dexterity Ability Checks
++8 ... Dexterity Saving Throws *
++4 ... Acrobatics Skill
++12 ... Sleight of Hand Skill  **
++12 ... Stealth Skill  **
+
+
+Constitution 14
++2 ... Constitution Ability Checks
++2 ... Constitution Saving Throws
+
+Intelligence 12
++1 ... Intelligence Ability Checks
++5 ... Intelligence Saving Throws *
++1 ... Arcana Skill
++1 ... History Skill
++5 ... Investigation Skill  **
++1 ... Nature Skill
++1 ... Religion Skill
+
+Wisdom 8
+-1 ... Wisdom Ability Checks
+-1 ... Wisdom Saving Throws
+-1 ... Animal Handling Skill
+-1 ... Insight Skill
+-1 ... Medicine Skill
++3 ... Perception Skill  *
++3 ... Survival Skill  *
+
+Charisma 14
++2 ... Charisma Ability Checks
++2 ... Charisma Saving Throws
++6 ... Deception Skill  **
++6 ... Intimidation Skill  *
++2 ... Performance Skill
++2 ... Persuasion Skill
+
+COMBAT [PHB p. 189]
+
+13 ... Passive Perception
++4 ... Initiative Modifier
+
+Armor Class 15 ... Armor worn: leather armor
+
+30 ft. Speed ... Base distance per move
+
+73 hit points ... 10d8 Hit Dice
+
+
+Rapier. Melee Weapon Attack: +8 to hit, reach 5 ft. Hit: 1d8+4 piercing damage.
+
+
+Shortbow. Ranged Weapon Attack: +8 to hit. Hit: 1d6+4 piercing damage. (Normal range to 80 ft.; disadvantage long range 81 to 320 ft. Must be used two-handed.)
+
+
+Dagger. Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. 1d4+4 piercing damage. (If thrown, normal range to 20 ft.; disadvantage long range 21 to 60 ft.)
+
+
+Sneak Attack: Once per turn, deal extra damage to one creature hit if attack with advantage using finesse or ranged weapon. Don't need advantage if an enemy of the target is within 5 feet of it, enemy isn't incapacitated, and you don't have disadvantage on attack.
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Outlander Background [PHB p. 136]
+
+• Feature: Wanderer.
+
+• Traits: Left home, never went back. Rational mind.
+
+• Ideal: Search for yourself, let no one make your path for you.
+
+• Bond: Local wild lions accept you as one of their pride.
+
+• Flaw: Lover drown in flood.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +4
+• Armor: light armor
+• Weapons: simple weapons, hand crossbow, longsword, rapier, shortsword
+• Tools: disguise kit, musical instrument (flute), poisoner's kit, thieves' tools
+• Saving Throws: Dexterity, Intelligence
+• Skills: Athletics, Intimidation, Perception, Sleight of Hand, Stealth, Survival
+• Languages: Common, Thieves' Cant, Giant, Orc
+
+
+Half-Orc Traits [PHB p. 40]
+
+• Age: 24 years old
+
+• Medium Size (5' 4", 123 lbs.)
+
+• Darkvision (60 feet)
+
+• Menacing (Intimidation)
+
+• Relentless Endurance (0 h.p. to 1 h.p.)
+
+• Savage Attacks (extra damage on crit)
+
+
+Rogue Class Features [PHB p. 94]
+
+• Expertise (prof. noted with **)
+
+• Sneak Attack (+5d6)
+
+• Thieves' Cant (slang speak in code)
+
+• Cunning Action (Dash, Disengage or Hide)
+
+• Assassinate (adv. vs. no turn yet and any hit auto-critical)
+
+• Uncanny Dodge (reax. for half damage)
+
+• Evasion (area effect half or no damage)
+
+• Infiltration Expertise (fake an identity)
+
+Sneak Attack: Once per turn, deal extra damage to one creature hit if attack with advantage using finesse or ranged weapon. Don't need advantage if an enemy of the target is within 5 feet of it, enemy isn't incapacitated, and you don't have disadvantage on attack.
+
+
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear (PHB, p. 143): leather armor (AC 11), rapier, two (2) daggers, shortbow and 20 arrows, disguise kit (cosmetics, hair dye, props, etc.), poisoner's kit (vials, chemicals, venoms), thieves' tools (lockpicks, small file and pliers, tiny mirror), belt pouch, set of traveler's clothes, hunting trap, a staff, trophy from a slain animal. (This load is about 61 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Magic Items (DMG p. 135)
+• 2 potions of healing (2d4+2 hp)
+
+(a) Item attuned to character.
+
+
+Coins & Gems: 611 gold pieces (gp); 3 silver pieces (sp); 34 copper pieces (cp); 2 gems (worth 100 gp each)
+
+
+
+ 
+
+REFERENCE
+
+
+Page number references...
+
+[PHB] = Dungeons & Dragons Player's Handbook (5th edition) by Mike Mearls and Jeremy Crawford, published Aug. 19, 2014, by Wizards of the Coast (ISBN-10: 0786965606; ISBN-13: 978-0786965601).
+
+[DMG] = Dungeons & Dragons Dungeon Master's Guide (5th edition) by Mike Mearls and Jeremy Crawford, published Dec. 9, 2014, by Wizards of the Coast (ISBN-10: 9780786965625; ISBN-13: 978-0786965625).
+
+[MM] = Dungeons & Dragons Monster Manual (5th edition) by Mike Mearls and Jeremy Crawford, published Sept. 30 2014, by Wizards of the Coast (ISBN-10: 0786965614; ISBN-13: 978-0786965618).
+
+[ERftLW] = Eberron: Rising from the Last War by Jeremy Crawford, James Wyatt and Keith Baker, published Nov. 19, 2019, by Wizards of the Coast (ISBN-10: 0786966890; ISBN-13: 978-0786966899).
+
+[MOoT] = Mythic Odysseys of Theros by F. Wesley Schneider, James Wyatt, published July 21, 2020, by Wizards of the Coast (ISBN-10: 0786967013; ISBN-13: 978-0786967018).
+
+[MToF] = Mordenkainen's Tome Of Foes by Mike Mearls and Jeremy Crawford, published May 29, 2018, by Wizards of the Coast (ISBN-10: 0786966246; ISBN-13: 978-0786966240).
+
+[TCoE] = Tasha's Cauldron of Everything, published Nov. 17, 2020, by Wizards of the Coast (ISBN-10: 0786967021; ISBN-13: 978-0786967025).
+
+[VGtM] = Volo's Guide To Monsters by Mike Mearls, published Nov. 15, 2016, by Wizards of the Coast (ISBN-10: 0786966017; ISBN-13: 978-0786966011).
+
+[XGtE] = Xanathar's Guide to Everything by Mike Mearls and Jeremy Crawford, published Nov. 21, 2017, by Wizards of the Coast (ISBN-10: 0786966114; ISBN-13: 978-0786966110).
+
+Books are available from a gaming store near you.
+
+[Basic Rules] = Dungeons & Dragons Basic Rules, available for download from https://dnd.wizards.com/articles/features/basicrules
+
+[EEPG] = Elemental Evil Player's Companion, available for download from https://dnd.wizards.com/products/tabletop-games/rpg-products/player's-companion
+
+[UA Feb. 2015] = Unearthed Arcana: Eberron (v.1), available for download from https://dnd.wizards.com/articles/unearthed-arcana/unearthed-arcana-eberron
+
+[UA May 2015] = Unearthed Arcana: Waterborne Adventures, available for download from https://dnd.wizards.com/articles/unearthed-arcana/unearthed-arcana-waterborne-adventures
+
+[UA August 2015] = Unearthed Arcana: Modern Magic, available for download from https://dnd.wizards.com/articles/unearthed-arcana/modern-magic. This site also uses Dan Helmick's My New D20 Modern Campaign conversion notes from his 2015 website article on Wizards.com.
+
+[UA May 2018] = Unearthed Arcana: Centaurs And Minotaurs, available for download from https://dnd.wizards.com/articles/unearthed-arcana/centaurs-and-minotaurs
+
+[TP] = The Tortle Package, see https://dnd.wizards.com/products/tabletop-games/digital-only-rpg-products/tortle-package
+
+
+FREQUENTLY ASKED QUESTIONS
+
+CONTACT (especially about typos, glitches and othre errrors)
+
+Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2009 Wizards. All Rights Reserved.
+
+This Web site is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. This Web site may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' Fan Site Policy. For example, DUNGEONS & DRAGONS®, D&D®, PLAYER'S HANDBOOK 2®, and DUNGEON MASTER'S GUIDE® are trademark[s] of Wizards of the Coast and D&D® core rules, game mechanics, characters and their distinctive likenesses are the property of the Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at www.wizards.com.

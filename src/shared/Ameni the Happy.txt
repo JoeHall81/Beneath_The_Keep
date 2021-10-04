@@ -1,0 +1,214 @@
+FAST CHARACTER
+fastcharacter.com
+
+
+Name:  Ameni the Happy
+Race: Forest Gnome
+Class & Level: Fighter 10 (Champion)
+Background: Soldier
+Alignment: Neutral Good
+Experience: 67,840 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +4 proficiency bonus; ** includes expertise, if any)
+
+Strength 20
++5 ... Strength Ability Checks
++9 ... Strength Saving Throws *
++9 ... Athletics Skill  *
+300 lbs. ... Maximum Carrying Capacity
+600 lbs. ... Max. Push or Drag (Speed -5 ft.)
+600 lbs. ... Maximum Lift
+
+Dexterity 14
++2 ... Dexterity Ability Checks
++2 ... Dexterity Saving Throws
++4 ... Acrobatics Skill
++4 ... Sleight of Hand Skill
++4 ... Stealth Skill  (Disadv.)
+
+
+Constitution 15
++2 ... Constitution Ability Checks
++6 ... Constitution Saving Throws *
+
+Intelligence 10
++0 ... Intelligence Ability Checks
++0 ... Intelligence Saving Throws
++0 ... Arcana Skill
++0 ... History Skill
++0 ... Investigation Skill
++0 ... Nature Skill
++0 ... Religion Skill
+
+Wisdom 12
++1 ... Wisdom Ability Checks
++1 ... Wisdom Saving Throws
++5 ... Animal Handling Skill  *
++1 ... Insight Skill
++1 ... Medicine Skill
++5 ... Perception Skill  *
++1 ... Survival Skill
+
+Charisma 10
++0 ... Charisma Ability Checks
++0 ... Charisma Saving Throws
++0 ... Deception Skill
++4 ... Intimidation Skill  *
++0 ... Performance Skill
++0 ... Persuasion Skill
+
+COMBAT [PHB p. 189]
+
+15 ... Passive Perception
++2 ... Initiative Modifier
+
+Armor Class 18 ... Armor worn: chain mail, shield
+
+25 ft. Speed ... Base distance per move
+
+84 hit points ... 10d10 Hit Dice
+
+
+Longsword. Melee Weapon Attack: +9 to hit, reach 5 ft. Hit: 1d8+5 slashing damage. (If used two-handed in melee, does 1d10+5 damage.)
+
+
+Javelin. Melee Weapon Attack: +9 to hit, reach 5 ft. Hit: 1d6+5 piercing damage. (If thrown, normal range to 30 ft.; disadvantage long range 31 to 120 ft.)
+
+
+Fighting Style: Duelling. Add 2 damage to each melee weapon attack if no other weapon in other hand.
+
+
+Fighting Style: Great Weapon Fighting. Reroll 1 or 2 on damage dice with two-handed melee weapons.
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Soldier Background [PHB p. 140]
+
+• Feature: Military Rank.
+
+• Traits: Missing bits of ear, nose. Defensive manner.
+
+• Ideal: Duty to protect the people.
+
+• Bond: Made peace with old enemy.
+
+• Flaw: Haunted by past battles.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +4
+• Armor: light armor, medium armor, heavy armor, shields
+• Weapons: simple weapons, martial weapons
+• Tools: gaming set (dice set), vehicles (land craft)
+• Saving Throws: Strength, Constitution
+• Skills: Animal Handling, Athletics, Intimidation, Perception
+• Languages: Common, Gnomish
+
+
+Forest Gnome Traits [PHB p. 35]
+
+• Age: 125 years old
+
+• Medium Size (3' 4", 40 lbs.)
+
+• Darkvision (60 feet)
+
+• Gnome Cunning (adv. on Intelligence, Wisdom, Charisma saving throws vs. magic)
+
+• Natural Illusionist (Minor Illusion cantrip)
+
+• Speak With Small Beasts
+
+
+Fighter Class Features [PHB p. 70]
+
+• Fighting Style (Duelling)
+
+• Second Wind (regain 1d10+10 h.p.)
+
+• Action Surge (extra action in turn once betw. short rests)
+
+• Improved Critical (crit on 19 or 20)
+
+• Extra Attack (2/attack)
+
+• Remarkable Athlete (boost jumping and non-prof. Str, Dex, Con skills)
+
+• Indomitable (reroll save 1 time betw. long rests)
+
+• Second Fighting Style (Great Weapon Fighting)
+
+Fighting Style: Duelling. Add 2 damage to each melee weapon attack if no other weapon in other hand.
+
+Fighting Style: Great Weapon Fighting. Reroll 1 or 2 on damage dice with two-handed melee weapons.
+
+
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear (PHB, p. 143): chain mail armor (AC 16), shield (AC +2), longsword, javelin, gaming set (playing card set), belt pouch, set of common clothes, an insignia of rank, trophy taken from fallen enemy. (This load is about 130 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Magic Items (DMG p. 135)
+• 2 potions of healing (2d4+2 hp)
+
+(a) Item attuned to character.
+
+
+Coins & Gems: 738 gold pieces (gp); 65 silver pieces (sp); 77 copper pieces (cp); 3 gems (worth 100 gp each)
+
+
+
+ 
+
+REFERENCE
+
+
+Page number references...
+
+[PHB] = Dungeons & Dragons Player's Handbook (5th edition) by Mike Mearls and Jeremy Crawford, published Aug. 19, 2014, by Wizards of the Coast (ISBN-10: 0786965606; ISBN-13: 978-0786965601).
+
+[DMG] = Dungeons & Dragons Dungeon Master's Guide (5th edition) by Mike Mearls and Jeremy Crawford, published Dec. 9, 2014, by Wizards of the Coast (ISBN-10: 9780786965625; ISBN-13: 978-0786965625).
+
+[MM] = Dungeons & Dragons Monster Manual (5th edition) by Mike Mearls and Jeremy Crawford, published Sept. 30 2014, by Wizards of the Coast (ISBN-10: 0786965614; ISBN-13: 978-0786965618).
+
+[ERftLW] = Eberron: Rising from the Last War by Jeremy Crawford, James Wyatt and Keith Baker, published Nov. 19, 2019, by Wizards of the Coast (ISBN-10: 0786966890; ISBN-13: 978-0786966899).
+
+[MOoT] = Mythic Odysseys of Theros by F. Wesley Schneider, James Wyatt, published July 21, 2020, by Wizards of the Coast (ISBN-10: 0786967013; ISBN-13: 978-0786967018).
+
+[MToF] = Mordenkainen's Tome Of Foes by Mike Mearls and Jeremy Crawford, published May 29, 2018, by Wizards of the Coast (ISBN-10: 0786966246; ISBN-13: 978-0786966240).
+
+[TCoE] = Tasha's Cauldron of Everything, published Nov. 17, 2020, by Wizards of the Coast (ISBN-10: 0786967021; ISBN-13: 978-0786967025).
+
+[VGtM] = Volo's Guide To Monsters by Mike Mearls, published Nov. 15, 2016, by Wizards of the Coast (ISBN-10: 0786966017; ISBN-13: 978-0786966011).
+
+[XGtE] = Xanathar's Guide to Everything by Mike Mearls and Jeremy Crawford, published Nov. 21, 2017, by Wizards of the Coast (ISBN-10: 0786966114; ISBN-13: 978-0786966110).
+
+Books are available from a gaming store near you.
+
+[Basic Rules] = Dungeons & Dragons Basic Rules, available for download from https://dnd.wizards.com/articles/features/basicrules
+
+[EEPG] = Elemental Evil Player's Companion, available for download from https://dnd.wizards.com/products/tabletop-games/rpg-products/player's-companion
+
+[UA Feb. 2015] = Unearthed Arcana: Eberron (v.1), available for download from https://dnd.wizards.com/articles/unearthed-arcana/unearthed-arcana-eberron
+
+[UA May 2015] = Unearthed Arcana: Waterborne Adventures, available for download from https://dnd.wizards.com/articles/unearthed-arcana/unearthed-arcana-waterborne-adventures
+
+[UA August 2015] = Unearthed Arcana: Modern Magic, available for download from https://dnd.wizards.com/articles/unearthed-arcana/modern-magic. This site also uses Dan Helmick's My New D20 Modern Campaign conversion notes from his 2015 website article on Wizards.com.
+
+[UA May 2018] = Unearthed Arcana: Centaurs And Minotaurs, available for download from https://dnd.wizards.com/articles/unearthed-arcana/centaurs-and-minotaurs
+
+[TP] = The Tortle Package, see https://dnd.wizards.com/products/tabletop-games/digital-only-rpg-products/tortle-package
+
+
+FREQUENTLY ASKED QUESTIONS
+
+CONTACT (especially about typos, glitches and othre errrors)
+
+Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2009 Wizards. All Rights Reserved.
+
+This Web site is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. This Web site may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' Fan Site Policy. For example, DUNGEONS & DRAGONS®, D&D®, PLAYER'S HANDBOOK 2®, and DUNGEON MASTER'S GUIDE® are trademark[s] of Wizards of the Coast and D&D® core rules, game mechanics, characters and their distinctive likenesses are the property of the Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at www.wizards.com.

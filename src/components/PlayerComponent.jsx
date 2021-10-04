@@ -7,7 +7,7 @@ function RenderAdventurerOptions({adventurer, onClick}) {
         <Card outline color="secondary">
             <CardBody>
                 <CardTitle tag="h4">{adventurer.name}</CardTitle>
-                <CardSubtitle tag="h6">{adventurer.type}</CardSubtitle>
+                <CardSubtitle tag="h6">{adventurer.race}{":  "}{adventurer.class}</CardSubtitle>
             </CardBody>
             <CardBody>
                 <CardText>{adventurer.bio}</CardText>

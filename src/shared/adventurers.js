@@ -1,32 +1,38 @@
 export const ADVENTURERS = [
     {
         id: 0,
-        name: "temp0",
-        type: "Mage",
-        bio: "Life finds a way. Hey, you know how I'm, like, always trying to save the planet? Here's my chance. This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows. God help us, we're in the hands of engineers. Just my luck, no ice.",
-        xp: 0,
-        gold: 0,
-        ac: 0,
-        hitPoints: 0
+        name: "Rednoy Marsk",
+        race: "Half-Elf",
+        class: "Paladin",
+        bio: "Funny Half-Elf from the wayferer foothills who has a twin that constantly impersonates them.",
+        level: 10,
+        xp: 67840,
+        gold: 593,
+        ac: 18,
+        hitPoints: 84
     },
     {
         id: 1,
-        name: "temp1",
-        type: "Theif",
-        bio: "Life finds a way. Hey, you know how I'm, like, always trying to save the planet? Here's my chance. This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows. God help us, we're in the hands of engineers. Just my luck, no ice.",
-        xp: 0,
-        gold: 0,
-        ac: 0,
-        hitPoints: 0
+        name: "Ameni the Happy",
+        race: "Forest Gnome",
+        class: "Fighter",
+        bio: "Friendly Gnome from a maximum security prison who believes they have a claim to the throne.",
+        level: 10,
+        xp: 67840,
+        gold: 738,
+        ac: 18,
+        hitPoints: 84
     },
     {
         id: 2,
-        name: "temp2",
-        type: "Soldier",
-        bio: "Life finds a way. Hey, you know how I'm, like, always trying to save the planet? Here's my chance. This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows. God help us, we're in the hands of engineers. Just my luck, no ice.",
-        xp: 0,
-        gold: 0,
-        ac: 0,
-        hitPoints: 0
+        name: "Erguia the Feral",
+        race: "Half-Orc",
+        class: "Rogue",
+        bio: "Courageous Half-Orc from the grave diggers union who lost their shadow in a bet.",
+        level: 10,
+        xp: 67840,
+        gold: 611,
+        ac: 15,
+        hitPoints: 73
     }
 ];
