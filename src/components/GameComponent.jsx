@@ -38,10 +38,10 @@ class GameComponent extends Component {
 
     actionChoice(choice) {
         console.log(choice);
-        this.setState({ activeStory: choice.responce});
+        console.log(choice.response);
+        console.log(choice.progression);
+        this.setState({ activeStory: choice.response});
         this.setState({ activeArea: choice.progression});
-        console.log(this.state.activeArea);
-        console.log(this.state.activeStory);
     };
 
     

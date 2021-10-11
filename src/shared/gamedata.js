@@ -24,7 +24,7 @@ export const GAMEDATA = [
             {
                 id: 2,
                 type: "Wait for the Key",
-                response: 2,
+                response: 1,
                 progression: 1
             }
         ]
@@ -33,7 +33,7 @@ export const GAMEDATA = [
         id: 1,
         area: 1,
         title: "The Shop",
-        Story: [
+        story: [
             "The door to the shop opens to reveal a mess. Flanking the entrance are a pair of windows, one of which is smashed. Wooden shelf units are tumbled to the floor, some even splintered beyond repair. Slashed packs, tangled rope, and mundane supplies are strewn about the floor in a chaotic morass. The shop is about 30 feet wide and 20 feet deep, with dark paneled walls. To the left, a wooden counter runs the length of the room. Behind the counter is a closed wooden door.",
             "You wait for what feels like half an hour. A guard returns with the key and unlocks the door. The door to the shop opens to reveal a mess. Flanking the entrance are a pair of windows, one of which is smashed. Wooden shelf units are tumbled to the floor, some even splintered beyond repair. Slashed packs, tangled rope, and mundane supplies are strewn about the floor in a chaotic morass. The shop is about 30 feet wide and 20 feet deep, with dark paneled walls. To the left, a wooden counter runs the length of the room. Behind the counter is a closed wooden door."
         ],
