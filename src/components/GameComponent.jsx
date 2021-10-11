@@ -6,51 +6,45 @@ import '../custom_css/Game.css';
 const Story = (props) => {
     return (
         <CardBody>
-            <CardTitle tag="h4">{props.data[props.currentSection].title}</CardTitle>
+            <CardTitle tag="h4">{props.data[props.currentArea].title}</CardTitle>
             <CardText>
-                {props.data[props.currentSection].story[props.storyProgress]}
+                {props.data[props.currentArea].story[props.currentStory]}
             </CardText>
         </CardBody>
     );
 }
 
 //***Thought: do i need seperate functions one to display the action list and another for when a action is clicked?
-const Actions = ({options}) => {
-
+const Actions = ({area, onClick}) => {
     return (
-        <React.Fragment>
-            {options.type}
-        </React.Fragment>
+        area.actions.map(actionOption => {
+            return(
+                <li key={actionOption.id} >
+                    {/* {actionOption.type} */}
+                    <button onClick={() => onClick(actionOption)}>{actionOption.type}</button>
+                </li>
+            );
+        })
     );
 }
 
 class GameComponent extends Component {
     state = {
         gamedata: GAMEDATA,
-        currentStory: 0,
-        gameProgression: 0,
-        chosenAction: null
+        activeStory: 0,
+        activeArea: 0,
+        actionResponce: null
     };
 
-    progressStory = () => {
-        this.setState({ currentStory: this.state.chosenAction });
+    actionChoice(choice) {
+        console.log(choice);
+        this.setState({ activeStory: choice.responce});
+        this.setState({ activeArea: choice.progression});
+        console.log(this.state.activeArea);
+        console.log(this.state.activeStory);
     };
 
-    progressGame = () => {
-        this.setState({ gameProgression: this.state.gameProgression + 1});
-    };
-
-    actionChoice = (choice) => {
-        this.setState({ chosenAction: choice});
-    };
-
-    actionChoices = this.state.gamedata[this.state.gameProgression].actions.map(actionOption => {
-        return (
-            <li key={actionOption.id}>
-                <Actions options={actionOption} />
-            </li>
-        )
-    });
+    
 
     render() {
         return ( //***ToDo: create cards inside col div's for adventurer, actions, and story (maybe have a bottom card for interactions?)
@@ -66,25 +60,18 @@ class GameComponent extends Component {
                                 <CardBody>
                                     <CardTitle tag="h4">Actions:</CardTitle>
                                     <ul>
-                                        {this.actionChoices} {/*ToDo: Setup onClick for action selection (see player/route components)*/}
+                                    {/* <Actions area={this.state.gamedata[this.state.activeArea]} /> */}
+                                    <Actions area={this.state.gamedata[this.state.activeArea]} onClick={selectedChoice => this.actionChoice(selectedChoice)}/> {/* ToDo: Setup onClick for action selection (see player/route components) */}
                                     </ul>
                                 </CardBody>
                             </Card>
-                            {/* <Actions
-                                data={this.state.gamedata}
-                                storyProgress={this.state.currentStory}
-                                currentSection={this.state.gameProgression}
-                                actionChoice={this.actionChoice}
-                                progressStory={this.progressStory}
-                                progressGame={this.progressGame}
-                            /> */}
                         </div>
                         <div className="col-5">
                             <Card outline color="secondary">
                                 <Story
                                     data={this.state.gamedata}
-                                    storyProgress={this.state.currentStory}
-                                    currentSection={this.state.gameProgression}
+                                    currentStory={this.state.activeStory}
+                                    currentArea={this.state.activeArea}
                                 />
                             </Card>
                         </div>
