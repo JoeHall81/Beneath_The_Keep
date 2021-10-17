@@ -1,4 +1,3 @@
-.characterActions, .story {
-    border-color: black;
-    border-style: solid;
+.noWrapTest {
+    white-space: pre-wrap;
 }

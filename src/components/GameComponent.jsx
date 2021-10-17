@@ -7,7 +7,7 @@ const Story = (props) => {
     return (
         <CardBody>
             <CardTitle tag="h4">{props.data[props.currentArea].title}</CardTitle>
-            <CardText>
+            <CardText className="noWrapTest">
                 {props.data[props.currentArea].story[props.currentStory]}
             </CardText>
         </CardBody>
