@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardText, CardBody, CardTitle, CardSubtitle } from 'reactstrap';
+import { Card, CardText, CardBody, CardTitle, CardSubtitle, CardDeck } from 'reactstrap';
 import { Link } from 'react-router-dom';
 
 function RenderAdventurerOptions({adventurer, onClick}) {
@@ -23,9 +23,9 @@ function PlayerComponent(props) {
     
     const adventurerChoices = props.adventurers.map(playerOption => {
         return (
-            <div key={playerOption.id} className="col-sm-4">
+            <CardDeck key={playerOption.id} className="col-sm-4">
                 <RenderAdventurerOptions adventurer={playerOption} onClick={props.onClick} />
-            </div>
+            </CardDeck>
         )
     });
 
