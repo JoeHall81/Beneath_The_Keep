@@ -31,7 +31,7 @@ export const GAMEDATA = [
                 id: 3,
                 type: "Examine the shop front",
                 response: 0,
-                progression: 2
+                progression: 9
             }
         ]
     },
@@ -50,7 +50,7 @@ export const GAMEDATA = [
                 id: 0,
                 type: "Examine the shop interior",
                 response: 0,
-                progression: 3
+                progression: 10
             },
             {
                 id: 1,
@@ -75,6 +75,101 @@ export const GAMEDATA = [
     {
         id: 2,
         area: 2,
+        title: "Garan's Apartment",
+        story: [
+            "The door opens to reveal a cozy studio apartment, about 20 feet wide by 10 feet deep. The floor is covered with a plush but worn oval-shaped carpet.\n\nOpposite the door, behind a battered round wooden table and chair, is a soot-stained hearth. To it's left, a simple bed with disheveled sheets is pushed into the corner.\n\nTo the left of the door is a writing desk although it lacks a chair.\nOn the desk rests a square box-like object concealed under a stained cloth sheet."
+        ],
+        actions: [
+            {
+                id: 0,
+                type: "Uncover box-like object",
+                response: 0,
+                progression: 12
+            },
+            {
+                id: 1,
+                type: "Search the room",
+                response: 0,
+                progression: 11
+            },
+            {
+                id: 2,
+                type: "Line your pockets",
+                response: 1,
+                progression: 11
+            }
+        ]
+    },
+    {
+        id: 3,
+        area: 3,
+        title: "Stairway",
+        story: [
+            "Upon closer inspection you realise the smear of blood is in the seam of a secret door. Finding the catch near the floor, you push inward.\n\nThe secret door opens to reveal a stone stairway desending into the inky darkness.",
+            "Caught off guard and in a small space it takes everything you can to avoid getting bit. You're successfully able to defeat the Cockatrice just before loosing your footing and falling to the floor with your back against the wall.\n\nThat's when you hear a click as the wall behind you opens to reveal a stone stairway desending into the inky darkness.",
+            "While recently disturbed, this stairway looks to have been unused. The blood smear looks like it was made by Garan as he fled up the stairs, possibly clutching a dagger wound."
+        ],
+        actions: [
+            {
+                id: 0,
+                type: "Go down stairs - cautiously",
+                response: 0,
+                progression: 4
+            },
+            {
+                id: 1,
+                type: "Go down stairs", /* ToDo */
+                response: 0,
+                progression: 4
+            },
+            {
+                id: 2,
+                type: "Examin stairway",
+                response: 2,
+                progression: 3
+            }
+        ]
+    },
+    {
+        id: 4,
+        area: 4,
+        title: "Cellar",
+        story: [
+            "You slowly decend the stairway, taking caution with each step.\nThe seventh step down is made of wood, and when to much weight is placed on it, it shifts to a steep incline. Which you're able to avoid.\n\nAt the bottom step you see a clay urn that looks to have been weakened. You peek inside to see a Green Slime.\n\nHaving cleared the traps in the stairway, you start to notice the air is cooler and damp, with slight staleness.\nYou look around at the shadowy chamber with its smooth walls and a smooth ceiling about 8 feet high.\n\nThe chamber expands to 15 feet wide and stretches for at least 30 feet or so. Through the gloom, there appears to be a stone door on the opposite side of the chamber.\nSeveral empty torch sconces adorn the walls. The east and west walls each sport a recessed niche about 10 feet wide, piled high with crates and casks.\n\nYou catch a glimpse of movement from between the stacked crates, and soon several sets of beady, glowing eyes peer from around the crates."
+        ],
+        actions: []
+    },
+    {
+        id: 5,
+        area: 5,
+        title: "Abandoned Gambling Parlor",
+        story: [],
+        actions: []
+    },
+    {
+        id: 6,
+        area: 6,
+        title: "Secret Passage",
+        story: [],
+        actions: []
+    },
+    {
+        id: 7,
+        area: 7,
+        title: "Temple",
+        story: [],
+        actions: []
+    },
+    {
+        id: 8,
+        area: 8,
+        title: "Natural Caverns",
+        story: [],
+        actions: []
+    },
+    {
+        id: 9,
+        area: 9,
         title: "Shop Front",
         story: [
             "The building is constructed of stout timbers with a peaked slate roof, A single locked wooden Dutch-style door provides access to the shop.\nThe building has but one story with a 10-foot-high ceiling.\nThere are two small windows, one of them smashed open.",
@@ -85,7 +180,7 @@ export const GAMEDATA = [
                 id: 0,
                 type: "Examine the window",
                 response: 1,
-                progression: 2
+                progression: 9
             },
             {
                 id: 1,
@@ -114,8 +209,8 @@ export const GAMEDATA = [
         ]
     },
     {
-        id: 3,
-        area: 3,
+        id: 10,
+        area: 10,
         title: "The Shop Interior",
         story: [
             "This interior room was the provisioner's shop. The provisioner sold mostly mundane items and typical adventuring gear. Such items include cookery, lanterns, rope, packs, blankets, and simple tools (hammers and saws). Three spears and five long knives are the only weapons present.",
@@ -127,18 +222,57 @@ export const GAMEDATA = [
                 id: 0,
                 type: "Confirm nothing was \"stolen\"",
                 response: 2,
-                progression: 3
+                progression: 10
             },
             {
                 id: 1,
                 type: "Search for clues",
                 response: 1,
-                progression: 3
+                progression: 10
             },
             {
                 id: 2,
                 type: "Open door behind counter",
                 response: 0,
+                progression: 2
+            }
+        ]
+    },
+    {
+        id: 11,
+        area: 11,
+        title: "Garan's Apartment",
+        story: [
+            "The room served as the simple living quarters for Garan. The bed, desk, table, and chair are all nondescript. The carpet is in dire need of cleaning. Next to the hearth is a small pile of firewood, and several well-used pots and pans.\n\nUnder the carpet is a loose flagstone that conceals a secret hollow, which appears that Garan was unaware of and must have been constructed by the previous owner.\nInside is a locked metal box, but a matching key is nowhere to be found.\n\nA small wooden cage, about 3 feet on each side, is hidden under the cloth on the desk. The cage holds a Wing-Clipped Cockatrice.\nAbout the size of a housecat, this twisted creature sports the traits of a scaly lizard complete with a whip-like tail, a bat, and fowl. It appears to once have had wings, but instead leathery nubs are present. Its sinewy neck has odd patches of black and gray feathers.\nAccording to Garan's books, Garan recently acquired it from a merchant that needed hard coin to settle a gambling debt.\n\nYou notice a smear of blood on the wall which looks out of place.",
+            "The room served as the simple living quarters for Garan. The bed, desk, table, and chair are all nondescript.\nNext to the hearth is a small pile of firewood, and several well-used pots and pans.\n\nStuffed in the mattress is a leather pouch with a gold thread drawstring (worth 22gp). Inside the puch is 11gp and an uncut emerald (worth 100gp).\n\nThe carpet is in dire need of cleaning but could fetch 15gp. (maybe I'll get that on my way out depending on what other goodies I can find.)\nUnder the carpet is a loose flagstone that conceals a secret hollow, which appears that Garan was unaware of and must have been constructed by the previous owner. Inside is a locked metal box, (childs play) containing a pouch holding:\nSeven Garnets (worth 50gp each)\nA dagger in an electrum accented black leather scabbard (worth 75gp)\nA scrimshaw scroll tube with a whale motif (worth 135gp)\n\nA small wooden cage, about 3 feet on each side, is hidden under the cloth on the desk. The cage holds a Wing-Clipped Cockatrice.\nAbout the size of a housecat, this twisted creature sports the traits of a scaly lizard complete with a whip-like tail, a bat, and fowl. It appears to once have had wings, but instead leathery nubs are present. Its sinewy neck has odd patches of black and gray feathers.\nAccording to Garan's books, Garan recently acquired it from a merchant that needed hard coin to settle a gambling debt.\n\nYou notice a smear of blood on the wall which looks out of place."
+        ],
+        actions: [
+            {
+                id: 0,
+                type: "Uncover the Wing-Clipped Cockatrice",
+                response: 0,
+                progression: 12
+            },
+            {
+                id: 1,
+                type: "Look closer at the smear of blood",
+                response: 0,
+                progression: 3
+            }
+        ]
+    },
+    {
+        id: 12,
+        area: 12,
+        title: "The Wing-Clipped Cockatrice",
+        story: [
+            "Bursting out of the cage, attacking with surprise! This mistreated beast flops around the chamber, attacking at random.\n\nThis wing-clipped cockatrice is fighting to the death.\n\nIt lundges at you trying to bite, you know that a single bite would cause you to be petrified for about 24 hours."
+        ],
+        actions: [
+            {
+                id: 0,
+                type: "Defend yourself",
+                response: 1,
                 progression: 3
             }
         ]
