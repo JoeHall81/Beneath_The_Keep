@@ -29,7 +29,7 @@ export const ADVENTURERS = [
         race: "Half-Orc",
         class: "Rogue",
         bio: "Courageous Half-Orc from the grave diggers union who lost their shadow in a bet.",
-        level: 100,
+        level: 10,
         xp: 67840,
         gold: 611,
         ac: 15,
